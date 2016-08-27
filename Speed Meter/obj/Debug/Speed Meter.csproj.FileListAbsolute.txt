@@ -1,0 +1,16 @@
+E:\Programming\Projects\Speed Meter\Speed Meter\bin\Debug\Speed Meter.exe.config
+E:\Programming\Projects\Speed Meter\Speed Meter\bin\Debug\Speed Meter.exe
+E:\Programming\Projects\Speed Meter\Speed Meter\bin\Debug\Speed Meter.pdb
+E:\Programming\Projects\Speed Meter\Speed Meter\obj\Debug\Speed Meter.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\Speed Meter\Speed Meter\obj\Debug\Speed_Meter.Form1.resources
+E:\Programming\Projects\Speed Meter\Speed Meter\obj\Debug\Speed_Meter.Properties.Resources.resources
+E:\Programming\Projects\Speed Meter\Speed Meter\obj\Debug\Speed Meter.csproj.GenerateResource.Cache
+E:\Programming\Projects\Speed Meter\Speed Meter\obj\Debug\Speed Meter.exe
+E:\Programming\Projects\Speed Meter\Speed Meter\obj\Debug\Speed Meter.pdb
+E:\Programming\Projects\Speed Meter\Speed Meter\bin\Debug\AGauge.dll
+E:\Programming\Projects\Speed Meter\Speed Meter\bin\Debug\AGauge.pdb
+E:\Programming\Projects\Speed Meter\Speed Meter\bin\Debug\Speed Meter.exe.manifest
+E:\Programming\Projects\Speed Meter\Speed Meter\bin\Debug\Speed Meter.application
+E:\Programming\Projects\Speed Meter\Speed Meter\obj\Debug\Speed Meter.exe.manifest
+E:\Programming\Projects\Speed Meter\Speed Meter\obj\Debug\Speed Meter.application
+E:\Programming\Projects\Speed Meter\Speed Meter\obj\Debug\Speed_Meter.About.resources
